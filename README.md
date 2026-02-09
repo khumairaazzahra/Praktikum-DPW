@@ -1,21 +1,28 @@
 # PRAKTIKUM DPW SEMESTER 4
 1. Khumaira Azzahra Yarman (2407135529)
 2. Raka Nadwa (2407113886)
+
 # Referensi Model Undangan Fisik: https://pin.it/74vRgVZch
+
 # Halaman Pertama
-Judul
-Nama Mempelai : Raka & Khumaira
-Tanggal : hari/bulan/tahun
+1. Judul : Wedding invitation
+2. Nama Mempelai : Raka & Khumaira
+3. Tanggal : hari/bulan/tahun
+
 # Halaman Kedua
-Kalimat Pembuka
-Nama Lengkap Mempelai
-Detail Waktu dan Tempat Acara
+1. Kalimat Pembuka
+2. Nama Lengkap Mempelai
+3. Detail Waktu dan Tempat Acara
+
 # Halaman Ketiga
-Agenda Acara
+1. Agenda Acara
+
 # Halaman Keempat
-Peta
+1. Peta
+
 # Halamn Kelima
-Galeri
-Story
+1. Galeri
+2. Story
+
 # Halaman keenam
-Kalimat penutup sekaligus harapan
+1. Kalimat penutup sekaligus harapan
