@@ -8,21 +8,31 @@
 1. Judul : Wedding invitation
 2. Nama Mempelai : Raka & Khumaira
 3. Tanggal : hari/bulan/tahun
-
-# Halaman Kedua
+   
+# Halamn Kedua
+1. Galeri
+2. Story
+   
+# Halaman Ketiga
 1. Kalimat Pembuka
 2. Nama Lengkap Mempelai
 3. Detail Waktu dan Tempat Acara
 
-# Halaman Ketiga
-1. Agenda Acara
-
 # Halaman Keempat
-1. Peta
+Agenda Acara
 
-# Halamn Kelima
-1. Galeri
-2. Story
-
+# Halaman Kelima
+Peta
+   
 # Halaman keenam
-1. Kalimat penutup sekaligus harapan
+1. Nama Tamu
+2. Kalimat penutup sekaligus harapan
+   
+# WIREFLOW
+1. pengguna membuka link
+2. pengguna melihat cover depan
+3. pengguna memasukkan username
+4. pengguna melihat galeri dan story
+5. pengguna scroll down dan melihat Kalimat Pembuka, Nama Lengkap Mempelai, dan Detail Waktu dan Tempat Acara
+6. pengguna scroll down dan melihat Agenda Acara
+7. pengguna scroll down dan melihat Kalimat penutup sekaligus harapan serta nama tamu
